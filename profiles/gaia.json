@@ -1,0 +1,24 @@
+{
+  "id": "gaia",
+  "title": "Gaia Crusaders",
+  "subtitle": "native port",
+  "manufacturer": "Noise Factory",
+  "year": 1999,
+  "rom_hint": "gaia.zip",
+  "players": 2,
+  "display": {
+    "aspect": "4:3",
+    "rotation": 0,
+    "integer_scale": false
+  },
+  "features": {
+    "save_states": true,
+    "rewind": true,
+    "nvram": false,
+    "input_movies": true,
+    "gadgets": true,
+    "input_display": true,
+    "screenshots": true,
+    "widescreen": false
+  }
+}

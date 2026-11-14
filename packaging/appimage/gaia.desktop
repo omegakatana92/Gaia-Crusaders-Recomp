@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Gaia Crusaders
+Comment=Native port of the 1999 arcade game (requires your own gaia.zip)
+Exec=gaia %f
+Icon=gaia
+Terminal=false
+Categories=Game;ArcadeGame;
+MimeType=application/zip;
